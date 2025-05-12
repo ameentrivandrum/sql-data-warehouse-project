@@ -3,6 +3,10 @@
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
+## 🌟 Credit
+
+Project done by **Baraa Khatib Salkini** He is an IT professional and YouTuber. This projct is done based on 30 hour sql class on his youtube channel **Data with barra**.
+
 ---
 ## 🏗️ Data Architecture
 
