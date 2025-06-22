@@ -2,6 +2,10 @@
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
+
+> 🧠 This project was originally created by **Baraa Khatib Salkini** (Data with Baraa) as part of a ~30-hour YouTube tutorial. I have thoroughly studied and replicated this project end-to-end, gaining a strong understanding of its architecture, SQL development, ETL pipelines, and analytics layers.  
+> 💼 I am confident in explaining and answering technical or functional questions about this project in interviews, and can extend or modify its components based on business needs.
+
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
